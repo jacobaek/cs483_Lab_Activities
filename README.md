@@ -2,4 +2,4 @@
 
 This is the code for the lab activities.
 
-Practice how to build codes and how it works perfectly.
+Practicing how to build codes and how it works perfectly.
